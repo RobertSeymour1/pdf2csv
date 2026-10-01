@@ -1,0 +1,13 @@
+{
+    "config": {
+        "platform": {
+            "php": "5.6.40"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0",
+        "phpmailer/phpmailer": "^6.0",
+        "mobiledetect/mobiledetectlib": "^2.8",
+        "smalot/pdfparser": "^0.19.0"
+    }
+}
